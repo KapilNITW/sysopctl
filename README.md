@@ -61,6 +61,13 @@ To back up files from a specific directory (replace <path> with the directory pa
 Example:
 ./sysopctl.sh backup /home/user/data
 
+![Screenshot from 2024-11-09 19-16-23](https://github.com/user-attachments/assets/988a342f-6073-4584-b3be-6353dda4992c)
+
+![Screenshot from 2024-11-09 19-16-35](https://github.com/user-attachments/assets/b8d5ebac-e13a-4ba0-9944-e8a668db971d)
+
+![Screenshot from 2024-11-09 19-16-38](https://github.com/user-attachments/assets/ae7aaf67-4918-4ca4-8471-1d290beae8f5)
+
+
 
 
 
